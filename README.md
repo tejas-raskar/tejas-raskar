@@ -21,6 +21,9 @@
   <a href="mailto:tjsrskr@gmail.com">
     <img align="left" alt="Tejas Raskar | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  <a href="https://www.linkedin.com/in/tejasraskar/">
+    <img align="left" alt="Tejas Raskar | Linkedin" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
   <a href="https://twitter.com/tejasraskar_">
     <img align="left" alt="Tejas Raskar | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
