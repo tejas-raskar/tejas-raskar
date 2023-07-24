@@ -10,7 +10,7 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **KOTLIN**
 
 <h3 align="left">
   Connect with me
