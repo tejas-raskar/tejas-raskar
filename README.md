@@ -5,7 +5,7 @@
 
 <p>
   <em>
-    I am 1st year undergraduate 👨‍🎓 who is passionate about coding 👨‍💻 and is enthusiastic about learning new technologies ⚙️ every day🌞!
+    I am 2nd year undergraduate 👨‍🎓 who is passionate about coding 👨‍💻 and is enthusiastic about learning new technologies ⚙️ every day🌞!
   </em>  
 </p>
 <br>
