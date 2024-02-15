@@ -21,13 +21,16 @@
 
 <p align="left">
   <a href="mailto:tjsrskr@gmail.com">
-    <img align="left" alt="Tejas Raskar | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Tejas Raskar | Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
   </a>
   <a href="https://www.linkedin.com/in/tejasraskar/">
     <img align="left" alt="Tejas Raskar | Linkedin" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
+  <a href="https://www.discord.com/users/tjsrskr">
+    <img align="left" alt="Tejas Raskar | Discord" width="26px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" />
+  </a>
   <a href="https://twitter.com/tejasraskar_">
-    <img align="left" alt="Tejas Raskar | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Tejas Raskar | Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/300px-X_logo_2023_original.svg.png?20230728155658" />
   </a> &nbsp;&nbsp;
 </p>
 
