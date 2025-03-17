@@ -1,4 +1,4 @@
-[![An image of @tejasraskar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejasraskar)](https://holopin.io/@tejasraskar)
+[![Holopin badges](https://holopin.me/tejasraskar)](https://holopin.io/@tejasraskar)
 
 <h1 align="left">
   Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Tejas!
@@ -12,7 +12,7 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Currently building **Cool Projects :)**
 
 <h3 align="left">
   Connect with me
@@ -35,66 +35,73 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Web Development -->
-<h5>Web Development</h5>
-<a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> 
-</a> 
-<a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40"/> 
-</a>  
-<a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/> 
-</a>  
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
-</a>  
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> 
-</a> 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" alt="Express" width="40" height="40"/> 
-</a>  
+<p align="left">
+  <!-- Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
 
-<!-- Databases & Cloud -->
-<h5>Databases & Cloud</h5>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/> 
-</a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s900-c-k-c0x00ffffff-no-rj" alt="AWS" height="40"/> 
-</a> 
+  <!-- Frameworks/Libraries -->
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/expressjs/images/a1b5cb1f-dae7-4971-ab5b-68efce751b0f.svg" alt="Express" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS" width="40" height="40" />
+  </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Three.js.png" alt="Three.js" width="40" height="40" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  </a>
 
-<!-- Programming Languages -->
-<h5>Programming Languages</h5>
-<a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-</a>  
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> 
-</a> 
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
 
-<!-- Mobile Development & Machine Learning -->
-<h5>Mobile Development & Machine Learning</h5>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-</a> 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-</a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-</a> 
+  <!-- Cloud Platforms -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" alt="AWS" height="40" />
+  </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
+    <img src="https://appwrite.io/assets/logomark/logo.svg" alt="Appwrite" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+  </a>
+
+  <!-- Tools -->
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="40" height="40" />
+  </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite" width="40" height="40" />
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
 </p>
 <h3 align="left">Blog</h3>
 <p>
